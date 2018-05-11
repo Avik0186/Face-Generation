@@ -1,2 +1,2 @@
 # Face-Generation
-Udacity Face Generation Assignment using GANs
+Udacity Deep Learning Project 5 - Realistic Face Generation Assignment using GANs
